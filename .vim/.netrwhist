@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/sugnkeunkim/tmp/benchmarks/libs/daytrader'
+let g:netrw_dirhist_2='/Users/sugnkeunkim/Desktop/De1SOC/Demonstrations/SOC_FPGA/my_first_hps-fpga'
+let g:netrw_dirhist_3='/Volumes/DANGURIA/DE1SoC/Demonstrations/SOC_FPGA/my_first_hps-fpga/hps-c'
+let g:netrw_dirhist_4='/Users/sugnkeunkim/Downloads/De1Soc/Demonstrations/SOC_FPGA/my_first_hps-fpga/hps-c/bak'
+let g:netrw_dirhist_5='/Volumes/DANGURIA/DE1SoC/UserManual'
